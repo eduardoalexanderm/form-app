@@ -10,7 +10,6 @@ const rtx = {
 @Component({
   selector: 'app-basic-page',
   templateUrl: './basic-page.component.html',
-  styleUrls: ['./basic-page.component.css']
 })
 
 
